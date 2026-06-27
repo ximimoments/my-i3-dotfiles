@@ -19,6 +19,7 @@ here you can see my dotfiles, but you have to install packages for work.
 <img width="960" height="524" alt="image" src="https://github.com/user-attachments/assets/62f5fa68-b57e-41b1-8509-f18fefcc7084" />
 
 ## Windows/Mac/Supr Key + Number, change the Workspace desktop
+https://github.com/user-attachments/assets/3f40ccb9-0c9b-4374-a050-ccbaf2e0b297
 
 ## How to put a Wallpaper
 
