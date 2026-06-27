@@ -21,7 +21,7 @@ here you can see my dotfiles, but you have to install packages for work.
 ## Windows/Mac/Supr Key + Number, change the Workspace desktop
 https://github.com/user-attachments/assets/3f40ccb9-0c9b-4374-a050-ccbaf2e0b297
 
-## How to put a Wallpaper
+# How to put a Wallpaper
 
 ## First install Feh
 ## ``sudo/doas <Packages_of_you_Operating_System> install/-S feh``
