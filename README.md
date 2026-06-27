@@ -24,8 +24,7 @@ https://github.com/user-attachments/assets/3f40ccb9-0c9b-4374-a050-ccbaf2e0b297
 ## How to put a Wallpaper
 
 ## First install Feh
-
-## sudo/doas <Packages_of_you_Operating_System> install/-S feh
+## ``sudo/doas <Packages_of_you_Operating_System> install/-S feh``
 
 ## Then you have to edit the config file, put this command on the last line
 #### `` exec_always --no-startup-id feh --bg-scale /home/User/directory/where/is/your/image.png  ``
