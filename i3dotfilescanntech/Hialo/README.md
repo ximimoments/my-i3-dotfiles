@@ -5,4 +5,4 @@
 ## polybar
 ## rofi
 ## xfce4-screenshooter
-## xfce4-terminal (kitty, alacritty or footer :3)
+## xfce4-terminal (kitty, alacritty, footer or your favourite one :3)
